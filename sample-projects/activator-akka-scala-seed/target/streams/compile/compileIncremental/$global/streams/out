@@ -1,0 +1,86 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/activator-akka-scala-seed/src/main/scala/com/example/ApplicationMain.scala, /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/activator-akka-scala-seed/src/main/scala/com/example/PingActor.scala, /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/activator-akka-scala-seed/src/main/scala/com/example/PongActor.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/activator-akka-scala-seed/src/main/scala/com/example/ApplicationMain.scala, /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/activator-akka-scala-seed/src/main/scala/com/example/PingActor.scala, /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/activator-akka-scala-seed/src/main/scala/com/example/PongActor.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/activator-akka-scala-seed/src/main/scala/com/example/ApplicationMain.scala, /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/activator-akka-scala-seed/src/main/scala/com/example/PingActor.scala, /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/activator-akka-scala-seed/src/main/scala/com/example/PongActor.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/activator-akka-scala-seed/src/main/scala/com/example/ApplicationMain.scala, /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/activator-akka-scala-seed/src/main/scala/com/example/PingActor.scala, /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/activator-akka-scala-seed/src/main/scala/com/example/PongActor.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 3 sources: invalidated sources (3) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 3 Scala sources to /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/activator-akka-scala-seed/target/scala-2.11/classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.12:component from component compiler for Scala 2.11.8[0m
+[0m[[0minfo[0m] [0m'compiler-interface' not yet compiled for Scala 2.11.8. Compiling...[0m
+[0m[[0mdebug[0m] [0mPlain interface to Scala compiler 2.11.8  with arguments: [0m
+[0m[[0mdebug[0m] [0m	-nowarn[0m
+[0m[[0mdebug[0m] [0m	-d[0m
+[0m[[0mdebug[0m] [0m	/var/folders/cy/ck477f955_56rgs6ryqn90mw0000gn/T/sbt_c526866[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/classes:/Users/Conan/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/Conan/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.12/xsbti/interface-0.13.12.jar:/var/folders/cy/ck477f955_56rgs6ryqn90mw0000gn/T/sbt_8b276521/srcs/org.scala-sbt/compiler-interface/compiler-interface-0.13.12-sources.jar:/Users/Conan/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.11.8.jar:/Users/Conan/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar:/Users/Conan/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.4.jar:/Users/Conan/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.4.jar:/Users/Conan/.ivy2/cache/jline/jline/jars/jline-2.12.1.jar[0m
+[0m[[0mdebug[0m] [0m	/var/folders/cy/ck477f955_56rgs6ryqn90mw0000gn/T/sbt_a69b5dff/xsbt/API.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/cy/ck477f955_56rgs6ryqn90mw0000gn/T/sbt_a69b5dff/xsbt/Analyzer.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/cy/ck477f955_56rgs6ryqn90mw0000gn/T/sbt_a69b5dff/xsbt/Command.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/cy/ck477f955_56rgs6ryqn90mw0000gn/T/sbt_a69b5dff/xsbt/Compat.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/cy/ck477f955_56rgs6ryqn90mw0000gn/T/sbt_a69b5dff/xsbt/CompilerInterface.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/cy/ck477f955_56rgs6ryqn90mw0000gn/T/sbt_a69b5dff/xsbt/ConsoleInterface.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/cy/ck477f955_56rgs6ryqn90mw0000gn/T/sbt_a69b5dff/xsbt/DelegatingReporter.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/cy/ck477f955_56rgs6ryqn90mw0000gn/T/sbt_a69b5dff/xsbt/Dependency.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/cy/ck477f955_56rgs6ryqn90mw0000gn/T/sbt_a69b5dff/xsbt/ExtractAPI.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/cy/ck477f955_56rgs6ryqn90mw0000gn/T/sbt_a69b5dff/xsbt/ExtractUsedNames.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/cy/ck477f955_56rgs6ryqn90mw0000gn/T/sbt_a69b5dff/xsbt/GlobalHelpers.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/cy/ck477f955_56rgs6ryqn90mw0000gn/T/sbt_a69b5dff/xsbt/LocateClassFile.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/cy/ck477f955_56rgs6ryqn90mw0000gn/T/sbt_a69b5dff/xsbt/Log.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/cy/ck477f955_56rgs6ryqn90mw0000gn/T/sbt_a69b5dff/xsbt/Message.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/cy/ck477f955_56rgs6ryqn90mw0000gn/T/sbt_a69b5dff/xsbt/ScaladocInterface.scala[0m
+[0m[[0minfo[0m] [0m  Compilation completed in 11.22 s[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.12:component from component compiler for Scala 2.11.8[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler e1cae78, interfacing (CompilerInterface) with Scala compiler version 2.11.8[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/classes:/Users/Conan/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/activator-akka-scala-seed/target/scala-2.11/classes:/Users/Conan/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.10.jar:/Users/Conan/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar:/Users/Conan/.ivy2/cache/org.scala-lang.modules/scala-java8-compat_2.11/bundles/scala-java8-compat_2.11-0.7.0.jar[0m
+[0m[[33mwarn[0m] [0mthere were two deprecation warnings; re-run with -deprecation for details[0m
+[0m[[33mwarn[0m] [0mone warning found[0m
+[0m[[0mdebug[0m] [0mScala compilation took 15.112519271 s[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/activator-akka-scala-seed/src/main/scala/com/example/ApplicationMain.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/activator-akka-scala-seed/src/main/scala/com/example/ApplicationMain.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/activator-akka-scala-seed/src/main/scala/com/example/ApplicationMain.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/activator-akka-scala-seed/src/main/scala/com/example/ApplicationMain.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/activator-akka-scala-seed/src/main/scala/com/example/ApplicationMain.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, system, equals, asInstanceOf, executionStart, synchronized, $isInstanceOf, main, notifyAll, isInstanceOf, ==, ApplicationMain, clone, $init$, toString, args, !=, getClass, ne, pingActor, eq, delayedInit, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/activator-akka-scala-seed/src/main/scala/com/example/PingActor.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/activator-akka-scala-seed/src/main/scala/com/example/PingActor.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/activator-akka-scala-seed/src/main/scala/com/example/PingActor.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/activator-akka-scala-seed/src/main/scala/com/example/PingActor.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/activator-akka-scala-seed/src/main/scala/com/example/PingActor.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	self, context.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following member ref dependencies of /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/activator-akka-scala-seed/src/main/scala/com/example/PingActor.scala are invalidated:[0m
+[0m[[0mdebug[0m] [0m[naha] 	/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/activator-akka-scala-seed/src/main/scala/com/example/ApplicationMain.scala[0m
+[0m[[0mdebug[0m] [0m[naha] 	/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/activator-akka-scala-seed/src/main/scala/com/example/PongActor.scala[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/activator-akka-scala-seed/src/main/scala/com/example/PongActor.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/activator-akka-scala-seed/src/main/scala/com/example/PongActor.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/activator-akka-scala-seed/src/main/scala/com/example/PongActor.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/activator-akka-scala-seed/src/main/scala/com/example/PongActor.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/activator-akka-scala-seed/src/main/scala/com/example/PongActor.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	self, context.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following member ref dependencies of /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/activator-akka-scala-seed/src/main/scala/com/example/PongActor.scala are invalidated:[0m
+[0m[[0mdebug[0m] [0m[naha] 	/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/activator-akka-scala-seed/src/main/scala/com/example/PingActor.scala[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

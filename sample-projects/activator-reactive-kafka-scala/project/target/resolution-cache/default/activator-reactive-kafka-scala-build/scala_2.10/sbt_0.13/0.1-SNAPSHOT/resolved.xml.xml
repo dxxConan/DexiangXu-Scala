@@ -4,7 +4,7 @@
 		module="activator-reactive-kafka-scala-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20170426095829"
+		publication="20170426103204"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>
