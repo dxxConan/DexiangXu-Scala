@@ -17,6 +17,7 @@ import scala.concurrent.{ExecutionContextExecutor, Future}
 import scala.math._
 import spray.json.DefaultJsonProtocol
 
+//option mean it may get a value, but may get a exception. since exception don't work in multi-thread
 case class IpInfo(query: String, country: Option[String], city: Option[String], lat: Option[Double], lon: Option[Double])
 
 case class IpPairSummaryRequest(ip1: String, ip2: String)
@@ -93,7 +94,10 @@ trait Service extends Protocols {
             val ip1InfoFuture = fetchIpInfo(ipPairSummaryRequest.ip1)
             val ip2InfoFuture = fetchIpInfo(ipPairSummaryRequest.ip2)
             ip1InfoFuture.zip(ip2InfoFuture).map[ToResponseMarshallable] {
+              //info1 is the type of Future[Either[String, IpInfo]]
+              //Right and left is to like array to choose the first one or the second one
               case (Right(info1), Right(info2)) => IpPairSummary(info1, info2)
+              //, _ means we don't care that part.
               case (Left(errorMessage), _) => BadRequest -> errorMessage
               case (_, Left(errorMessage)) => BadRequest -> errorMessage
             }

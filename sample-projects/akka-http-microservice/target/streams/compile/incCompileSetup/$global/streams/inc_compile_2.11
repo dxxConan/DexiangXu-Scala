@@ -1,0 +1,424 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes
+compile options:
+4 items
+0 -> -unchecked
+1 -> -deprecation
+2 -> -encoding
+3 -> utf8
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+27 items
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/AkkaHttpMicroservice$.class
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/AkkaHttpMicroservice$delayedInit$body.class
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/AkkaHttpMicroservice.class
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/IpInfo$.class
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/IpInfo.class
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/IpPairSummary$.class
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/IpPairSummary.class
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/IpPairSummaryRequest$.class
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/IpPairSummaryRequest.class
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/Protocols$$anonfun$1.class
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/Protocols$$anonfun$2.class
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/Protocols$$anonfun$3.class
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/Protocols$class.class
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/Protocols.class
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/Service$$anonfun$4$$anonfun$apply$3$$anonfun$apply$4$$anonfun$apply$5$$anonfun$apply$6.class
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/Service$$anonfun$4$$anonfun$apply$3$$anonfun$apply$4$$anonfun$apply$5.class
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/Service$$anonfun$4$$anonfun$apply$3$$anonfun$apply$4.class
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/Service$$anonfun$4$$anonfun$apply$3$$anonfun$apply$7$$anonfun$apply$8$$anonfun$apply$9.class
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/Service$$anonfun$4$$anonfun$apply$3$$anonfun$apply$7$$anonfun$apply$8.class
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/Service$$anonfun$4$$anonfun$apply$3$$anonfun$apply$7.class
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/Service$$anonfun$4$$anonfun$apply$3.class
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/Service$$anonfun$4.class
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/Service$$anonfun$fetchIpInfo$1$$anonfun$apply$1.class
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/Service$$anonfun$fetchIpInfo$1$$anonfun$apply$2.class
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/Service$$anonfun$fetchIpInfo$1.class
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/Service$class.class
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> /Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/Service.class
+binary dependencies:
+9 items
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> /Users/Conan/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.16.jar
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> /Users/Conan/.ivy2/cache/com.typesafe.akka/akka-http-core_2.11/jars/akka-http-core_2.11-10.0.1.jar
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> /Users/Conan/.ivy2/cache/com.typesafe.akka/akka-http-spray-json_2.11/jars/akka-http-spray-json_2.11-10.0.1.jar
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> /Users/Conan/.ivy2/cache/com.typesafe.akka/akka-http_2.11/jars/akka-http_2.11-10.0.1.jar
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> /Users/Conan/.ivy2/cache/com.typesafe.akka/akka-stream_2.11/jars/akka-stream_2.11-2.4.16.jar
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> /Users/Conan/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> /Users/Conan/.ivy2/cache/io.spray/spray-json_2.11/bundles/spray-json_2.11-1.3.2.jar
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> /Users/Conan/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+27 items
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> AkkaHttpMicroservice
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> AkkaHttpMicroservice$
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> AkkaHttpMicroservice$delayedInit$body
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> IpInfo
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> IpInfo$
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> IpPairSummary
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> IpPairSummary$
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> IpPairSummaryRequest
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> IpPairSummaryRequest$
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Protocols
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Protocols$$anonfun$1
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Protocols$$anonfun$2
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Protocols$$anonfun$3
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Protocols$class
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Service
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Service$$anonfun$4
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Service$$anonfun$4$$anonfun$apply$3
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Service$$anonfun$4$$anonfun$apply$3$$anonfun$apply$4
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Service$$anonfun$4$$anonfun$apply$3$$anonfun$apply$4$$anonfun$apply$5
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Service$$anonfun$4$$anonfun$apply$3$$anonfun$apply$4$$anonfun$apply$5$$anonfun$apply$6
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Service$$anonfun$4$$anonfun$apply$3$$anonfun$apply$7
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Service$$anonfun$4$$anonfun$apply$3$$anonfun$apply$7$$anonfun$apply$8
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Service$$anonfun$4$$anonfun$apply$3$$anonfun$apply$7$$anonfun$apply$8$$anonfun$apply$9
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Service$$anonfun$fetchIpInfo$1
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Service$$anonfun$fetchIpInfo$1$$anonfun$apply$1
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Service$$anonfun$fetchIpInfo$1$$anonfun$apply$2
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Service$class
+used names:
+246 items
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> $conforms
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> &
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> &&
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> *
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> +
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> -
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> ->
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> /
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> <init>
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> ==
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> AbstractFunction2
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> AbstractFunction5
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> ActorMaterializer
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> ActorSystem
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> AkkaHttpMicroservice
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Any
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> AnyRef
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> App
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> ApplyConverter
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> BadRequest
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> ClassManifestFactory
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Config
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> ConfigFactory
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> ConjunctionMagnet
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> DefaultJsonProtocol
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Directive
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Directives
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Double
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> DoubleJsonFormat
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> EarthRadius
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Either
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> ExecutionContextExecutor
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Flow
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Future
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Get
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Http
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> HttpRequest
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> HttpResponse
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> IOException
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> IpInfo
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> IpPairSummary
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> IpPairSummaryRequest
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Join
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Left
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> LogSource
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Logging
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> LoggingAdapter
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> LoggingMagnet
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Marshaller
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Materializer
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> None
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> OK
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Option
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> ParserSettings
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Predef
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Product
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Protocols
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> RequestBuilding
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Right
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> RouteResult
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> RoutingLog
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> RoutingSettings
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> ScalaRunTime
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Segment
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Serializable
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Service
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Sink
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Source
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> SprayJsonSupport
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> StatusCodes
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> String
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> StringContext
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> StringJsonFormat
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> StringMarshaller
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> ToResponseMarshallable
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> TupleOps
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Unmarshal
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Unmarshaller
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> _1
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> _2
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> _3
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> _4
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> _enhanceRouteWithConcatenation
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> _hashCode
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> _segmentStringToPathMatcher
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> _toString
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> a
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> actor
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> addByNameNullaryApply
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> addDirectiveApply
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> akka
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> apply
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> as
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> asInstanceOf
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> atan2
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> b
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> bindAndHandle
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> c
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> calculateDistance
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> city
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> classType
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> client
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> com
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> complete
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> concurrent
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> config
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> cos
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> country
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> default
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> directives
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> dispatcher
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> distance
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> entity
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> eq
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> error
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> errorMessage
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> event
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> executor
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> failed
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> fetchIpInfo
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> flatMap
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> forRequestResponseFromMarker
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> fromActorSystem
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> fromAnyClass
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> fromDirective
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> fromStatusCodeAndValue
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> futureMarshaller
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> get
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> getClass
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> getInt
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> getString
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> hac1
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> head
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> http
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> info1
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> info2
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> io
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> ip
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> ip1
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> ip1Info
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> ip1InfoFuture
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> ip2
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> ip2Info
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> ip2InfoFuture
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> ipApiConnectionFlow
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> ipApiRequest
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> ipInfo
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> ipInfoFormat
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> ipPairSummaryFormat
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> ipPairSummaryRequest
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> ipPairSummaryRequestFormat
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> isInstanceOf
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> java
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> join0P
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> json
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> jsonFormat2
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> jsonFormat3
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> jsonFormat5
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> lat
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> lat1
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> lat2
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> liftMarshaller
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> load
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> logRequestResult
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> logger
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> lon
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> lon1
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> lon2
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> map
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> marshaller
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> marshallers
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> marshalling
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> materializer
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> math
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> messageUnmarshallerFromEntityUnmarshaller
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> model
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> ne
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> optionFormat
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> outgoingConnection
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> package
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> path
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> pathPrefix
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> post
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> pow
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> qual$1
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> qual$2
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> query
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> reflect
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> request
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> response
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> route2HandlerFlow
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> routes
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> runWith
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> runtime
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> s
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> scala
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> scaladsl
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> server
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> settings
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> sin
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> single
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> spray
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> sprayJsonMarshaller
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> sprayJsonUnmarshaller
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> sprayjson
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> sqrt
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> status
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> stream
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> stringUnmarshaller
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> successful
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> system
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> to
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> toRadians
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> toString
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> typedProductIterator
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> typesafe
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> unmarshalling
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> util
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> via
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> x
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> x$10
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> x$11
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> x$12
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> x$13
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> x$14
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> x$15
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> x$16
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> x$17
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> x$18
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> x$19
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> x$2
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> x$20
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> x$3
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> x$4
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> x$5
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> x$6
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> x$7
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> x$8
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> x$9
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> zip
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> ||
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> ~
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Δλ
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> Δφ
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> φ1
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> φ2
+product stamps:
+27 items
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/AkkaHttpMicroservice$.class -> lastModified(1493237121000)
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/AkkaHttpMicroservice$delayedInit$body.class -> lastModified(1493237121000)
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/AkkaHttpMicroservice.class -> lastModified(1493237121000)
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/IpInfo$.class -> lastModified(1493237121000)
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/IpInfo.class -> lastModified(1493237121000)
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/IpPairSummary$.class -> lastModified(1493237121000)
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/IpPairSummary.class -> lastModified(1493237121000)
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/IpPairSummaryRequest$.class -> lastModified(1493237121000)
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/IpPairSummaryRequest.class -> lastModified(1493237121000)
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/Protocols$$anonfun$1.class -> lastModified(1493237121000)
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/Protocols$$anonfun$2.class -> lastModified(1493237121000)
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/Protocols$$anonfun$3.class -> lastModified(1493237121000)
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/Protocols$class.class -> lastModified(1493237121000)
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/Protocols.class -> lastModified(1493237121000)
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/Service$$anonfun$4$$anonfun$apply$3$$anonfun$apply$4$$anonfun$apply$5$$anonfun$apply$6.class -> lastModified(1493237121000)
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/Service$$anonfun$4$$anonfun$apply$3$$anonfun$apply$4$$anonfun$apply$5.class -> lastModified(1493237121000)
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/Service$$anonfun$4$$anonfun$apply$3$$anonfun$apply$4.class -> lastModified(1493237121000)
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/Service$$anonfun$4$$anonfun$apply$3$$anonfun$apply$7$$anonfun$apply$8$$anonfun$apply$9.class -> lastModified(1493237121000)
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/Service$$anonfun$4$$anonfun$apply$3$$anonfun$apply$7$$anonfun$apply$8.class -> lastModified(1493237121000)
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/Service$$anonfun$4$$anonfun$apply$3$$anonfun$apply$7.class -> lastModified(1493237121000)
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/Service$$anonfun$4$$anonfun$apply$3.class -> lastModified(1493237121000)
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/Service$$anonfun$4.class -> lastModified(1493237121000)
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/Service$$anonfun$fetchIpInfo$1$$anonfun$apply$1.class -> lastModified(1493237121000)
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/Service$$anonfun$fetchIpInfo$1$$anonfun$apply$2.class -> lastModified(1493237121000)
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/Service$$anonfun$fetchIpInfo$1.class -> lastModified(1493237121000)
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/Service$class.class -> lastModified(1493237121000)
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/target/scala-2.11/classes/Service.class -> lastModified(1493237121000)
+source stamps:
+1 items
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> hash(d38179398eaf37f2fd7abaf974a8f4ff8ce9093d)
+binary stamps:
+9 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1475301657000)
+/Users/Conan/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.16.jar -> lastModified(1482159145000)
+/Users/Conan/.ivy2/cache/com.typesafe.akka/akka-http-core_2.11/jars/akka-http-core_2.11-10.0.1.jar -> lastModified(1482426160000)
+/Users/Conan/.ivy2/cache/com.typesafe.akka/akka-http-spray-json_2.11/jars/akka-http-spray-json_2.11-10.0.1.jar -> lastModified(1482426172000)
+/Users/Conan/.ivy2/cache/com.typesafe.akka/akka-http_2.11/jars/akka-http_2.11-10.0.1.jar -> lastModified(1482426167000)
+/Users/Conan/.ivy2/cache/com.typesafe.akka/akka-stream_2.11/jars/akka-stream_2.11-2.4.16.jar -> lastModified(1482159211000)
+/Users/Conan/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar -> lastModified(1431099969000)
+/Users/Conan/.ivy2/cache/io.spray/spray-json_2.11/bundles/spray-json_2.11-1.3.2.jar -> lastModified(1430920873000)
+/Users/Conan/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457105192000)
+class names:
+9 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/Conan/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.16.jar -> akka.event.LogSource$
+/Users/Conan/.ivy2/cache/com.typesafe.akka/akka-http-core_2.11/jars/akka-http-core_2.11-10.0.1.jar -> akka.http.scaladsl.model.ResponseEntity
+/Users/Conan/.ivy2/cache/com.typesafe.akka/akka-http-spray-json_2.11/jars/akka-http-spray-json_2.11-10.0.1.jar -> akka.http.scaladsl.marshallers.sprayjson.SprayJsonSupport$
+/Users/Conan/.ivy2/cache/com.typesafe.akka/akka-http_2.11/jars/akka-http_2.11-10.0.1.jar -> akka.http.scaladsl.server.util.TupleOps$
+/Users/Conan/.ivy2/cache/com.typesafe.akka/akka-stream_2.11/jars/akka-stream_2.11-2.4.16.jar -> akka.stream.ActorMaterializer
+/Users/Conan/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar -> com.typesafe.config.Config
+/Users/Conan/.ivy2/cache/io.spray/spray-json_2.11/bundles/spray-json_2.11-1.3.2.jar -> spray.json.DefaultJsonProtocol
+/Users/Conan/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.App
+internal apis:
+1 items
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDgTKeyAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAtc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwo5GpV3QAGmlwUGFpclN1bW1hcnlSZXF1ZXN0Rm9ybWF0c3EAfgALrFz5qnQADlVuaXRKc29uRm9ybWF0c3EAfgALTAhk6HQACmxpc3RGb3JtYXRzcQB+AAtZKp0TdAAMdmVjdG9yRm9ybWF0c3EAfgALxXXbF3QABnN5c3RlbXNxAH4ACwpwfFJ0ABJSb290SnNPYmplY3RGb3JtYXRzcQB+AAsZ72lTdAARQm9vbGVhbkpzb25Gb3JtYXRzcQB+AAulrIa8dAAJc2V0Rm9ybWF0c3EAfgALvhnRg3QAEVJvb3RKc0FycmF5Rm9ybWF0c3EAfgALWMQUMXQADUpzVmFsdWVGb3JtYXRzcQB+AAvofkF+dAAOTG9uZ0pzb25Gb3JtYXRzcQB+AAtZRcupdAAMdHVwbGUxRm9ybWF0c3EAfgALxj6C/HQAEGluZGV4ZWRTZXFGb3JtYXRzcQB+AAuw0ckxdAAMb3B0aW9uRm9ybWF0c3EAfgALB+JsQXQAD2xpbmVhclNlcUZvcm1hdHNxAH4AC0Wu6MZ0ABBTeW1ib2xKc29uRm9ybWF0c3EAfgALg5zhJnQADHR1cGxlNUZvcm1hdHNxAH4AC3G/weR0AAx0dXBsZTNGb3JtYXRzcQB+AAtRfq2odAASaW1tTGluZWFyU2VxRm9ybWF0c3EAfgAL2UlVy3QADHR1cGxlN0Zvcm1hdHNxAH4AC5XXsrB0AAxpbW1TZXRGb3JtYXRzcQB+AAtJ/v3fdAAMZWl0aGVyRm9ybWF0c3EAfgALGFv7+HQADkNoYXJKc29uRm9ybWF0c3EAfgAL8FTECHQAFEJpZ0RlY2ltYWxKc29uRm9ybWF0c3EAfgAL9RW3nXQAD1Nob3J0SnNvbkZvcm1hdHNxAH4AC2qbwMl0AAx0dXBsZTZGb3JtYXRzcQB+AAtV6cYLdAAQU3RyaW5nSnNvbkZvcm1hdHNxAH4AC4oMARZ0AAthcnJheUZvcm1hdHNxAH4AC22ldQh0AAxpcEluZm9Gb3JtYXRzcQB+AAulPfSZdAARaW1tSXRlcmFibGVGb3JtYXRzcQB+AAtcffgVdAAOQnl0ZUpzb25Gb3JtYXRzcQB+AAvJL4S8dAAMbWF0ZXJpYWxpemVyc3EAfgALeCPuz3QADHR1cGxlMkZvcm1hdHNxAH4AC1/ywXt0ABNpbW1JbmRleGVkU2VxRm9ybWF0c3EAfgALny9T7nQAE2lwUGFpclN1bW1hcnlGb3JtYXRzcQB+AAv9Z/x0dAAIZXhlY3V0b3JzcQB+AAvj5JmNdAAMaW1tU2VxRm9ybWF0c3EAfgALKpweqXQADHR1cGxlNEZvcm1hdHNxAH4ACyuYfbN0AA9GbG9hdEpzb25Gb3JtYXRzcQB+AAvOOcitdAAOaXRlcmFibGVGb3JtYXRzcQB+AAu0U+oedAANSW50SnNvbkZvcm1hdHNxAH4AC3g/Of50ABBEb3VibGVKc29uRm9ybWF0c3EAfgALLU7pjXQACW1hcEZvcm1hdHNxAH4AC7t6sbt0AAlzZXFGb3JtYXRzcQB+AAs1Dqa3dAAQQmlnSW50SnNvbkZvcm1hdHVxAH4ACQAAAGRzcQB+AAu2zs7edAAGbm90aWZ5c3EAfgALsISe1XQAA2lwMXNxAH4AC2kIF250AARyZWFkc3EAfgALnslo43QACWZyb21GaWVsZHNxAH4AC/z2C010AAtqc29uRm9ybWF0OXNxAH4AC9RPRD10AAd1bmFwcGx5c3EAfgALDtFV2XQABGNpdHlzcQB+AAslY3tLdAAManNvbkZvcm1hdDE2c3EAfgALM2oB93QAFEFra2FIdHRwTWljcm9zZXJ2aWNlc3EAfgALGjGSg3QADGpzb25Gb3JtYXQyMHNxAH4ACyYgTvt0AAR3YWl0c3EAfgALs6Qz+nQABnZpYVNlcXNxAH4AC3wGB4l0AApsYXp5Rm9ybWF0c3EAfgAL681jr3QADmNvcHkkZGVmYXVsdCQyc3EAfgALqxEsZ3QADSRhc0luc3RhbmNlT2ZzcQB+AAuvQVcQdAAManNvbkZvcm1hdDEyc3EAfgALyYIuCXQADGpzb25Gb3JtYXQxM3NxAH4AC0yaNV10AAZsb2dnZXJzcQB+AAuKLLUWdAAGcm91dGVzc3EAfgALrRBi9XQAC2pzb25Gb3JtYXQyc3EAfgALpyxK8nQADmNvcHkkZGVmYXVsdCQ1c3EAfgAL5jPcAHQADHByb2R1Y3RBcml0eXNxAH4AC3ibrg10AAZlcXVhbHNzcQB+AAteMQjfdAALanNvbkZvcm1hdDZzcQB+AAtCBy3qdAAMaXBBcGlSZXF1ZXN0c3EAfgALeAatnHQADGFzSW5zdGFuY2VPZnNxAH4AC9q4OP50AA5leGVjdXRpb25TdGFydHNxAH4AC0+Vv9t0AAxqc29uRm9ybWF0MTVzcQB+AAv7GrzcdAACSkZzcQB+AAu7b8x6dAAMc3luY2hyb25pemVkc3EAfgALJioUOXQAA2lwMnNxAH4AC3Eh9+F0AAxqc29uRm9ybWF0MTFzcQB+AAtyqQJVdAANJGlzSW5zdGFuY2VPZnNxAH4AC3p63KF0AAtqc29uRm9ybWF0NXNxAH4AC3qlEtB0AAxqc29uRm9ybWF0MjFzcQB+AAvwcSeRdAAUcHJvZHVjdEVsZW1lbnQyRmllbGRzcQB+AAt7kbMLdAAKcm9vdEZvcm1hdHNxAH4AC1mCPUt0AAVxdWVyeXNxAH4ACy+l3890AB5wcm9kdWN0RWxlbWVudDJGaWVsZCRkZWZhdWx0JDRzcQB+AAviyXrcdAAManNvbkZvcm1hdDE0c3EAfgALUeQHnXQAC2ZldGNoSXBJbmZvc3EAfgAL5iIBFnQACGNhbkVxdWFsc3EAfgALK16yNXQAC2pzb25Gb3JtYXQxc3EAfgAL6TipQXQABmNvbmZpZ3NxAH4ACzf3W5d0AAdjb3VudHJ5c3EAfgALoaFyInQADnJvb3RKc29uRm9ybWF0c3EAfgALyL+RmnQADmNvcHkkZGVmYXVsdCQ0c3EAfgALTaHBBHQABG1haW5zcQB+AAv0ROavdAANcHJvZHVjdFByZWZpeHNxAH4AC6VgQKl0AAxqc29uRm9ybWF0MTlzcQB+AAuv3WNvdAAJbm90aWZ5QWxsc3EAfgALYUn99HQACGRlbGVnYXRlc3EAfgALkyudbHQAE2lwQXBpQ29ubmVjdGlvbkZsb3dzcQB+AAstoepGdAAMaXNJbnN0YW5jZU9mc3EAfgAL0ZRy6XQAB1NlcnZpY2VzcQB+AAs3eEqKdAAGPGluaXQ+c3EAfgAL6fxX4nQACHJlYWRTb21lc3EAfgALXNx/eHQABWFwcGx5c3EAfgALpmmf0HQAC2pzb25Gb3JtYXQ0c3EAfgALsDibynQAAj09c3EAfgALpBR4hHQADUlwUGFpclN1bW1hcnlzcQB+AAs/x0DDdAAFY2xvbmVzcQB+AAvFQgo2dAAManNvbkZvcm1hdDEwc3EAfgALmRSKjXQAC2pzb25Gb3JtYXQwc3EAfgALPb86YHQADGpzb25Gb3JtYXQyMnNxAH4AC09QNyd0AAxPcHRpb25Gb3JtYXRzcQB+AAv5gR11dAAManNvbkZvcm1hdDE4c3EAfgALx3d0t3QABiRpbml0JHNxAH4ACy9ARc90AA5jb3B5JGRlZmF1bHQkM3NxAH4ACzPzbV10AARjb3B5c3EAfgAL5EU6VHQAA2xvbnNxAH4ACwoT2iF0AAh0b1N0cmluZ3NxAH4AC3CoyOV0AARhcmdzc3EAfgAL0HK4QnQACmpzb25Gb3JtYXRzcQB+AAvSwUnRdAACIT1zcQB+AAsx1+1edAALanNvbkZvcm1hdDhzcQB+AAvmqekSdAAHaXAySW5mb3NxAH4AC4Bsk3R0AAhnZXRDbGFzc3NxAH4ACxvlKDV0AAlQcm90b2NvbHNzcQB+AAsmCF4odAAOY29weSRkZWZhdWx0JDFzcQB+AAtGp56PdAAHaXAxSW5mb3NxAH4AC7wnZyV0AAJuZXNxAH4AC0mxoCN0AARsaWZ0c3EAfgAL9ATxPHQAC2pzb25Gb3JtYXQzc3EAfgAL/e1Md3QAAmVxc3EAfgAL2xA5ynQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4AC0RFv9d0AAV3cml0ZXNxAH4ACyncbux0AAhkaXN0YW5jZXNxAH4AC/YY8D90AANsYXRzcQB+AAtTI7E7dAAUSXBQYWlyU3VtbWFyeVJlcXVlc3RzcQB+AAujWCY+dAAKc2FmZVJlYWRlcnNxAH4ACznE+IV0AAtkZWxheWVkSW5pdHNxAH4ACwTR0al0AAIjI3NxAH4AC0xiOat0AAhmaW5hbGl6ZXNxAH4AC9elpdx0AA5wcm9kdWN0RWxlbWVudHNxAH4AC4yykvF0AAhoYXNoQ29kZXNxAH4ACxhLtIx0ABFleHRyYWN0RmllbGROYW1lc3NxAH4AC9wUMpp0AAxqc29uRm9ybWF0MTdzcQB+AAt9paZvdAAGSXBJbmZvc3EAfgALcOfGanQAC2pzb25Gb3JtYXQ3c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAB3NyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4BOXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgEtdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AVBzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4BOUwACWluaGVyaXRlZHEAfgE5TAAHcGFyZW50c3EAfgE5eHEAfgFVc3EAfgFQdXEAfgE0AAAAAHNxAH4BUHVxAH4BNAAAAABzcQB+AVB1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AVR0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AVRzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AW5zcQB+AWFxAH4BZHNxAH4BZXNxAH4BaHVxAH4BawAAAANzcQB+AW10AARqYXZhc3EAfgFtdAACaW9xAH4BcnNxAH4BYXQAB1Byb2R1Y3RxAH4BZ3NxAH4BYXQABkVxdWFsc3EAfgFnc3EAfgFhdAAGT2JqZWN0c3EAfgFlc3EAfgFodXEAfgFrAAAAA3NxAH4BbXEAfgF4c3EAfgFtdAAEbGFuZ3EAfgFyc3EAfgFhdAADQW55cQB+AWdzcQB+ATZxAH4BQ3VxAH4BRAAAAABzcQB+AUYAcQB+ARt1cQB+AUgAAAAAcQB+AUx1cQB+AU4AAAAAc3EAfgFQcQB+AVZzcQB+AVBzcQB+AVhzcQB+AVB1cQB+ATQAAAAAc3EAfgFQdXEAfgE0AAAAAHNxAH4BUHVxAH4BXwAAAAZzcQB+AWFxAH4BZHNxAH4BZXNxAH4BaHVxAH4BawAAAAJzcQB+AW1xAH4BcHEAfgFyc3EAfgFhcQB+AWRzcQB+AWVzcQB+AWh1cQB+AWsAAAADc3EAfgFtcQB+AXhzcQB+AW10AAJpb3EAfgFyc3EAfgFhcQB+AXxxAH4BmHNxAH4BYXQABkVxdWFsc3EAfgGYc3EAfgFhcQB+AYBzcQB+AWVzcQB+AWh1cQB+AWsAAAADc3EAfgFtcQB+AXhzcQB+AW1xAH4BhnEAfgFyc3EAfgFhcQB+AYhxAH4BmHNxAH4BNnEAfgFDdXEAfgFEAAAAAHNxAH4BRgBxAH4A4XVxAH4BSAAAAABxAH4BTHVxAH4BTgAAAABzcQB+AVBxAH4BVnNxAH4BUHNxAH4BWHNxAH4BUHVxAH4BNAAAAABzcQB+AVB1cQB+ATQAAAAAc3EAfgFQdXEAfgFfAAAABnNxAH4BYXEAfgFkc3EAfgFlc3EAfgFodXEAfgFrAAAAAnNxAH4BbXEAfgFwcQB+AXJzcQB+AWFxAH4BZHNxAH4BZXNxAH4BaHVxAH4BawAAAANzcQB+AW1xAH4BeHNxAH4BbXQAAmlvcQB+AXJzcQB+AWFxAH4BfHEAfgG8c3EAfgFhdAAGRXF1YWxzcQB+AbxzcQB+AWFxAH4BgHNxAH4BZXNxAH4BaHVxAH4BawAAAANzcQB+AW1xAH4BeHNxAH4BbXEAfgGGcQB+AXJzcQB+AWFxAH4BiHEAfgG8c3EAfgE2cQB+AUN1cQB+AUQAAAAAc3EAfgFGAHQADUlwUGFpclN1bW1hcnl1cQB+AUgAAAAAfnEAfgFKdAAGTW9kdWxldXEAfgFOAAAAAHNxAH4BUHEAfgFWc3EAfgFQc3EAfgFYc3EAfgFQdXEAfgE0AAAAAHNxAH4BUHVxAH4BNAAAAABzcQB+AVB1cQB+AV8AAAAEc3EAfgFhcQB+AWRzcQB+AWVzcQB+AWh1cQB+AWsAAAACc3EAfgFtcQB+AXBxAH4BcnNxAH4BYXEAfgFkc3EAfgFlc3EAfgFodXEAfgFrAAAAA3NxAH4BbXEAfgF4c3EAfgFtdAACaW9xAH4BcnNxAH4BYXEAfgGAc3EAfgFlc3EAfgFodXEAfgFrAAAAA3NxAH4BbXEAfgF4c3EAfgFtcQB+AYZxAH4BcnNxAH4BYXEAfgGIcQB+AeNzcQB+ATZxAH4BQ3VxAH4BRAAAAABzcQB+AUYBcQB+AQV1cQB+AUgAAAAAfnEAfgFKdAAFVHJhaXR1cQB+AU4AAAAAc3EAfgFQcQB+AVZzcQB+AVBzcQB+AVhzcQB+AVB1cQB+ATQAAAAAc3EAfgFQdXEAfgE0AAAAAHNxAH4BUHVxAH4BXwAAAAlzcQB+AWF0ABNEZWZhdWx0SnNvblByb3RvY29sc3EAfgFlc3EAfgFodXEAfgFrAAAAA3NxAH4BbXQABXNwcmF5c3EAfgFtdAAEanNvbnEAfgFyc3EAfgFhdAARQWRkaXRpb25hbEZvcm1hdHNxAH4CB3NxAH4BYXQADlByb2R1Y3RGb3JtYXRzcQB+AgdzcQB+AWF0ABdQcm9kdWN0Rm9ybWF0c0luc3RhbmNlc3EAfgIHc3EAfgFhdAARQ29sbGVjdGlvbkZvcm1hdHNxAH4CB3NxAH4BYXQAD1N0YW5kYXJkRm9ybWF0c3EAfgIHc3EAfgFhdAAMQmFzaWNGb3JtYXRzcQB+AgdzcQB+AWFxAH4BgHNxAH4BZXNxAH4BaHVxAH4BawAAAANzcQB+AW1xAH4BeHNxAH4BbXEAfgGGcQB+AXJzcQB+AWFxAH4BiHNxAH4BZXNxAH4BaHVxAH4BawAAAAJzcQB+AW1xAH4BcHEAfgFyc3EAfgE2cQB+AUN1cQB+AUQAAAAAc3EAfgFGAXEAfgDVdXEAfgFIAAAAAHEAfgH5dXEAfgFOAAAAAHNxAH4BUHEAfgFWc3EAfgFQc3EAfgFYc3EAfgFQdXEAfgE0AAAAAHNxAH4BUHVxAH4BNAAAAABzcQB+AVB1cQB+AV8AAAAKc3EAfgFhdAAJUHJvdG9jb2xzc3EAfgFlc3EAfgFodXEAfgFrAAAAAXEAfgFyc3EAfgFhdAATRGVmYXVsdEpzb25Qcm90b2NvbHNxAH4BZXNxAH4BaHVxAH4BawAAAANzcQB+AW10AAVzcHJheXNxAH4BbXQABGpzb25xAH4BcnNxAH4BYXQAEUFkZGl0aW9uYWxGb3JtYXRzcQB+AjpzcQB+AWF0AA5Qcm9kdWN0Rm9ybWF0c3EAfgI6c3EAfgFhdAAXUHJvZHVjdEZvcm1hdHNJbnN0YW5jZXNxAH4COnNxAH4BYXQAEUNvbGxlY3Rpb25Gb3JtYXRzcQB+AjpzcQB+AWF0AA9TdGFuZGFyZEZvcm1hdHNxAH4COnNxAH4BYXQADEJhc2ljRm9ybWF0c3EAfgI6c3EAfgFhcQB+AYBzcQB+AWVzcQB+AWh1cQB+AWsAAAADc3EAfgFtcQB+AXhzcQB+AW1xAH4BhnEAfgFyc3EAfgFhcQB+AYhzcQB+AWVzcQB+AWh1cQB+AWsAAAACc3EAfgFtcQB+AXBxAH4BcnNxAH4BNnEAfgFDdXEAfgFEAAAAAHNxAH4BRgBxAH4AeXVxAH4BSAAAAABxAH4B1nVxAH4BTgAAAAJ0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3QAEHNjYWxhLmRlcHJlY2F0ZWRzcQB+AVBxAH4BVnNxAH4BUHNxAH4BWHNxAH4BUHVxAH4BNAAAAABzcQB+AVB1cQB+ATQAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+ATpxAH4BQ3VxAH4BRAAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+Amd4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgAMTAAFdmFsdWVxAH4ADHhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3EAfgFhdAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcQB+AWVzcQB+AWh1cQB+AWsAAAACc3EAfgFtcQB+AXBxAH4BcnNxAH4BRgBxAH4Ax3VxAH4BSAAAAABzcQB+AWF0AARVbml0cQB+AnZ1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADEwAA3RwZXEAfgJneHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgFLdAAFUGxhaW5xAH4A+XNyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4BYlsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4BVHNxAH4BYXQABUFycmF5cQB+AnZ1cQB+AV8AAAABc3EAfgFhdAAGU3RyaW5nc3EAfgFlc3EAfgFodXEAfgFrAAAAA3NxAH4BbXEAfgF4c3EAfgFtcQB+AYZxAH4BcnNxAH4BUHVxAH4BXwAAAA1zcQB+AWF0AAdTZXJ2aWNlc3EAfgFlc3EAfgFodXEAfgFrAAAAAXEAfgFyc3EAfgFhdAAJUHJvdG9jb2xzcQB+ApxzcQB+AWF0ABNEZWZhdWx0SnNvblByb3RvY29sc3EAfgFlc3EAfgFodXEAfgFrAAAAA3NxAH4BbXQABXNwcmF5c3EAfgFtdAAEanNvbnEAfgFyc3EAfgFhdAARQWRkaXRpb25hbEZvcm1hdHNxAH4Co3NxAH4BYXQADlByb2R1Y3RGb3JtYXRzcQB+AqNzcQB+AWF0ABdQcm9kdWN0Rm9ybWF0c0luc3RhbmNlc3EAfgKjc3EAfgFhdAARQ29sbGVjdGlvbkZvcm1hdHNxAH4Co3NxAH4BYXQAD1N0YW5kYXJkRm9ybWF0c3EAfgKjc3EAfgFhdAAMQmFzaWNGb3JtYXRzcQB+AqNzcQB+AWF0AANBcHBxAH4CdnNxAH4BYXQAC0RlbGF5ZWRJbml0cQB+AnZzcQB+AWFxAH4BgHEAfgKTc3EAfgFhcQB+AYhxAH4CdnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFbq931tnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AGUvVXNlcnMvQ29uYW4vRGVza3RvcC9EZXhpYW5nWHUtU2NhbGEvc2FtcGxlLXByb2plY3RzL2Fra2EtaHR0cC1taWNyb3NlcnZpY2UvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFNOBeTmOrzfy/Xq6+XSo9P+M6Qk9
+external apis:
+0 items
+source infos:
+1 items
+/Users/Conan/Desktop/DexiangXu-Scala/sample-projects/akka-http-microservice/src/main/scala/AkkaHttpMicroservice.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW6vd9bZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAZS9Vc2Vycy9Db25hbi9EZXNrdG9wL0RleGlhbmdYdS1TY2FsYS9zYW1wbGUtcHJvamVjdHMvYWtrYS1odHRwLW1pY3Jvc2VydmljZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
