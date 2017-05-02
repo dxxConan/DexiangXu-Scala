@@ -1,0 +1,23 @@
+version: '2'
+
+services:
+  kafka:
+    image: spotify/kafka:latest
+    container_name: kafka
+    ports:
+      - "2181:2181"
+      - "9092:9092"
+    environment:
+      - "ADVERTISED_HOST=192.168.99.100"
+      - "ES_JAVA_OPTS=-Xms128m -Xmx128m"
+
+  elasticsearch:
+    image: nshou/elasticsearch-kibana:latest
+    container_name: elasticsearch
+    ports:
+      - "9200:9200"
+      - "5601:5601"
+    environment:
+      - "ES_JAVA_OPTS=-Xms128m -Xmx128m"
+    depends_on:
+      - "kafka"

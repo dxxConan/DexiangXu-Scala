@@ -1,15 +1,31 @@
-import akka.actor.{Actor, ActorLogging}
+import akka.actor.{Actor, ActorLogging, ActorSystem}
+import akka.event.Logging
 import akka.kafka.ConsumerMessage.{CommittableMessage, CommittableOffsetBatch}
 import akka.kafka.scaladsl.Consumer.Control
-import akka.stream.Materializer
+import akka.stream.{ActorMaterializer, Materializer}
 import akka.stream.scaladsl.{Keep, Sink}
+import com.typesafe.config.ConfigFactory
 
 import scala.concurrent.ExecutionContext.Implicits.global
 import scala.concurrent.Future
 import scala.concurrent.duration._
 import scala.language.postfixOps
 
-class LoggingConsumer(implicit mat: Materializer) extends Actor with ActorLogging {
+object LoggingConsumer extends App {
+  type Message = CommittableMessage[Array[Byte], String]
+  case object Start
+  case object Stop
+  implicit val system = ActorSystem()
+  implicit val executor = system.dispatcher
+  implicit val materializer = ActorMaterializer()
+  val config = ConfigFactory.load()
+  val logger = Logging(system, getClass)
+
+  val initialActor = classOf[LoggingConsumer].getName
+  akka.Main.main(Array(initialActor))
+}
+
+class LoggingConsumer extends Actor with ActorLogging {
   import LoggingConsumer._
 
   override def preStart(): Unit = {
@@ -43,20 +59,19 @@ class LoggingConsumer(implicit mat: Materializer) extends Actor with ActorLoggin
   def running(control: Control): Receive = {
     case Stop =>
       log.info("Shutting down logging consumer stream and actor")
+
       control.shutdown().andThen {
         case _ =>
           context.stop(self)
       }
+
   }
 
   private def processMessage(msg: Message): Future[Message] = {
-    log.info(s"Consumed number: ${msg.record.value()}")
+    log.info(s"Consumed message: ${msg.record.value()}")
     Future.successful(msg)
   }
 }
 
-object LoggingConsumer {
-  type Message = CommittableMessage[Array[Byte], String]
-  case object Start
-  case object Stop
-}
+
+
