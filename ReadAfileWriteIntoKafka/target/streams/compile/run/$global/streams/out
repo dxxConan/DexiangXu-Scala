@@ -1,4 +1,4 @@
-[0m[[0minfo[0m] [0mRunning LoggingConsumer [0m
+[0m[[0minfo[0m] [0mRunning ReadCsvToKafka [0m
 [0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
 [0m[[0mdebug[0m] [0m  Classpath:[0m
 [0m[[0mdebug[0m] [0m	/Users/Conan/Desktop/DexiangXu-Scala/ReadAfileWriteIntoKafka/target/scala-2.12/classes[0m
@@ -23,4 +23,4 @@
 [0m[[0mdebug[0m] [0m	/Users/Conan/.ivy2/cache/com.typesafe.akka/akka-slf4j_2.12/jars/akka-slf4j_2.12-2.4.12.jar[0m
 [0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
 [0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
-[0m[[0mdebug[0m] [0mWaiting for thread default-akka.actor.default-dispatcher-3 to terminate.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread default-akka.actor.default-dispatcher-4 to terminate.[0m

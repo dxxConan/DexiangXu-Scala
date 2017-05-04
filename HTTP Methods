@@ -1,0 +1,42 @@
+HTTP Methods
+
+Postman:
+
+CRUD:
+created/read/update/delete
+
+Get: 
+Retrieve information from server
+Encodeed in url
+
+Post:(create)
+careat and /or update/replace
+
+http://localhost:9000/ip (get)
+give all ip addresses
+
+http://localhost:9000/ip/<xyz> (get)
+information about just this particular ip address
+
+http://localhost:9000/ip (post)
+create a new ip address info, contents will be in the post body
+
+http://localhost:9000/ip/<xyz> (get)
+get xyz
+
+http://localhost:9000/ip/<xyz>  (delete)
+delete xyz
+
+http://localhost:9000/ip/<xyz>  (put)
+update xyz
+
+http://localhost:9000/ip/<xyz>  (post)
+update/replace: xyz
+
+Put:
+update only select fields
+
+Rest over HTTP
+
+Delete:
+delete

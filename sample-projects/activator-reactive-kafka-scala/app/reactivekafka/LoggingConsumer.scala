@@ -23,10 +23,13 @@ class LoggingConsumer(implicit mat: Materializer) extends Actor with ActorLoggin
       log.info("Initializing logging consumer")
       val (control, future) = RandomNumberSource.create("loggingConsumer")(context.system)
         .mapAsync(2)(processMessage)
+        //mark those files read to be visited. So the same consumer will only read the data once
+        /*
         .map(_.committableOffset)
         .groupedWithin(10, 15 seconds)
         .map(group => group.foldLeft(CommittableOffsetBatch.empty) { (batch, elem) => batch.updated(elem) })
         .mapAsync(1)(_.commitScaladsl())
+        */
         .toMat(Sink.ignore)(Keep.both)
         .run()
 

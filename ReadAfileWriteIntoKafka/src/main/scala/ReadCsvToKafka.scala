@@ -77,7 +77,7 @@ class ReadCsvToKafka extends Actor with ActorLogging {
           throw ex
       }
    //   context.become(running(control))
-      log.info(s"Writer now running, writing random numbers to topic ${CsvReader.Topic}")
+      log.info(s"Writer now running ${CsvReader.Topic}")
   }
 
   def running(control: Cancellable): Receive = {

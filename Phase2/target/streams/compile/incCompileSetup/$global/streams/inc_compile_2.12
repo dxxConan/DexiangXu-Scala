@@ -1,0 +1,367 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/Conan/Desktop/DexiangXu-Scala/Phase2/target/scala-2.12/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.2
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+13 items
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ConsumerReader.scala -> /Users/Conan/Desktop/DexiangXu-Scala/Phase2/target/scala-2.12/classes/ConsumerReader$.class
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ConsumerReader.scala -> /Users/Conan/Desktop/DexiangXu-Scala/Phase2/target/scala-2.12/classes/ConsumerReader.class
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> /Users/Conan/Desktop/DexiangXu-Scala/Phase2/target/scala-2.12/classes/ReadFromConsumerAndWrite$$anonfun$receive$1$$anonfun$applyOrElse$3.class
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> /Users/Conan/Desktop/DexiangXu-Scala/Phase2/target/scala-2.12/classes/ReadFromConsumerAndWrite$$anonfun$receive$1.class
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> /Users/Conan/Desktop/DexiangXu-Scala/Phase2/target/scala-2.12/classes/ReadFromConsumerAndWrite$$anonfun$running$1$$anonfun$applyOrElse$4.class
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> /Users/Conan/Desktop/DexiangXu-Scala/Phase2/target/scala-2.12/classes/ReadFromConsumerAndWrite$$anonfun$running$1.class
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> /Users/Conan/Desktop/DexiangXu-Scala/Phase2/target/scala-2.12/classes/ReadFromConsumerAndWrite$.class
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> /Users/Conan/Desktop/DexiangXu-Scala/Phase2/target/scala-2.12/classes/ReadFromConsumerAndWrite$Start$.class
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> /Users/Conan/Desktop/DexiangXu-Scala/Phase2/target/scala-2.12/classes/ReadFromConsumerAndWrite$Stop$.class
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> /Users/Conan/Desktop/DexiangXu-Scala/Phase2/target/scala-2.12/classes/ReadFromConsumerAndWrite$delayedInit$body.class
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> /Users/Conan/Desktop/DexiangXu-Scala/Phase2/target/scala-2.12/classes/ReadFromConsumerAndWrite.class
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> /Users/Conan/Desktop/DexiangXu-Scala/Phase2/target/scala-2.12/classes/ReaderResource$.class
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> /Users/Conan/Desktop/DexiangXu-Scala/Phase2/target/scala-2.12/classes/ReaderResource.class
+binary dependencies:
+14 items
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ConsumerReader.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> /Users/Conan/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.4.14.jar
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> /Users/Conan/.ivy2/cache/com.typesafe.akka/akka-stream-kafka_2.12/jars/akka-stream-kafka_2.12-0.13.jar
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> /Users/Conan/.ivy2/cache/com.typesafe.akka/akka-stream_2.12/jars/akka-stream_2.12-2.4.14.jar
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> /Users/Conan/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> /Users/Conan/.ivy2/cache/org.apache.kafka/kafka-clients/jars/kafka-clients-0.10.0.1.jar
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> /Users/Conan/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> /Users/Conan/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.4.14.jar
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> /Users/Conan/.ivy2/cache/com.typesafe.akka/akka-stream-kafka_2.12/jars/akka-stream-kafka_2.12-0.13.jar
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> /Users/Conan/.ivy2/cache/com.typesafe.akka/akka-stream_2.12/jars/akka-stream_2.12-2.4.14.jar
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> /Users/Conan/.ivy2/cache/org.apache.kafka/kafka-clients/jars/kafka-clients-0.10.0.1.jar
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> /Users/Conan/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+3 items
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> /Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ConsumerReader.scala
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> /Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> /Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ConsumerReader.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+13 items
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ConsumerReader.scala -> ConsumerReader
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ConsumerReader.scala -> ConsumerReader$
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> ReadFromConsumerAndWrite
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> ReadFromConsumerAndWrite$
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> ReadFromConsumerAndWrite$$anonfun$receive$1
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> ReadFromConsumerAndWrite$$anonfun$receive$1$$anonfun$applyOrElse$3
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> ReadFromConsumerAndWrite$$anonfun$running$1
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> ReadFromConsumerAndWrite$$anonfun$running$1$$anonfun$applyOrElse$4
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> ReadFromConsumerAndWrite$Start$
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> ReadFromConsumerAndWrite$Stop$
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> ReadFromConsumerAndWrite$delayedInit$body
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> ReaderResource
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> ReaderResource$
+used names:
+221 items
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ConsumerReader.scala -> <init>
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ConsumerReader.scala -> AnyRef
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ConsumerReader.scala -> ConsumerReader
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ConsumerReader.scala -> Object
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ConsumerReader.scala -> String
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ConsumerReader.scala -> Topic
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ConsumerReader.scala -> scala
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> !
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> <init>
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> <repeated>
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> ==
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> ?0
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> A1
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> AbstractPartialFunction
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> Actor
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> ActorContext
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> ActorLogging
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> ActorMaterializer
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> ActorMaterializerSettings
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> ActorRef
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> ActorRefFactory
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> ActorSystem
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> Any
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> AnyRef
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> App
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> Array
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> B1
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> Boolean
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> Byte
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> ByteArraySerializer
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> Class
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> ClassTag
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> CommittableMessage
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> Config
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> ConfigFactory
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> Consumer
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> ConsumerMessage
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> ConsumerReader
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> ConsumerRecord
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> Control
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> Done
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> ExecutionContext
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> ExecutionContextExecutor
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> Function1
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> Function2
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> Future
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> Graph
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> IndexOutOfBoundsException
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> Int
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> Iterator
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> K
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> Keep
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> L
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> LogSource
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> Logging
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> LoggingAdapter
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> Main
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> Mat2
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> Mat3
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> MatchError
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> Materializer
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> Message
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> Nothing
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> Object
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> Option
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> PartialFunction
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> Predef
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> Producer
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> ProducerRecord
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> ProducerSettings
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> Product
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> R
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> ReadFromConsumerAndWrite
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> ReaderResource
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> Receive
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> RunnableGraph
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> ScalaActorRef
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> ScalaRunTime
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> Serializable
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> Serializer
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> Sink
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> SinkShape
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> Source
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> Start
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> Stop
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> String
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> StringContext
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> StringSerializer
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> T
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> T0
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> T1
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> T2
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> Throwable
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> Topic
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> Try
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> Tuple2
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> U
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> Unit
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> V
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> _$7
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> _1
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> _2
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> actor
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> actorRef2Scala
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> akka
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> andThen
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> apache
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> apply
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> asInstanceOf
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> become
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> both
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> clients
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> com
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> common
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> concurrent
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> config
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> context
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> control
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> create
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> dispatcher
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> error
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> event
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> executor
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> fromAnyClass
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> future
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> getClass
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> getName
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> info
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> initialActor
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> kafka
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> kafkaSink
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> load
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> log
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> logger
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> main
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> map
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> mapAsync
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> materializeClassTag
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> materializer
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> msg
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> ne
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> onFailure
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> org
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> package
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> plainSink
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> preStart
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> processMessage
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> producer
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> producerSettings
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> record
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> reflect
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> run
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> running
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> runtime
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> s
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> scala
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> scaladsl
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> self
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> serialization
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> shutdown
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> stop
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> stream
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> successful
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> system
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> toMat
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> toString
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> typedProductIterator
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> typesafe
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> unchecked
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> value
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> withBootstrapServers
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> <init>
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> <repeated>
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> ActorSystem
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> Any
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> AnyRef
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> Array
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> AutoSubscription
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> Byte
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> ByteArrayDeserializer
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> CommittableMessage
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> Consumer
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> ConsumerConfig
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> ConsumerMessage
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> ConsumerReader
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> ConsumerSettings
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> Control
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> Deserializer
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> K
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> Nothing
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> Object
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> Predef
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> ReaderResource
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> Source
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> String
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> StringDeserializer
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> Subscription
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> Subscriptions
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> Topic
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> V
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> actor
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> akka
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> apache
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> apply
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> clients
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> committableSource
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> common
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> consumer
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> consumerSettings
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> groupId
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> kafka
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> org
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> scala
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> scaladsl
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> serialization
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> stream
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> system
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> topics
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> withBootstrapServers
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> withGroupId
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> withProperty
+product stamps:
+13 items
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/target/scala-2.12/classes/ConsumerReader$.class -> lastModified(1493844764000)
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/target/scala-2.12/classes/ConsumerReader.class -> lastModified(1493844764000)
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/target/scala-2.12/classes/ReadFromConsumerAndWrite$$anonfun$receive$1$$anonfun$applyOrElse$3.class -> lastModified(1493844764000)
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/target/scala-2.12/classes/ReadFromConsumerAndWrite$$anonfun$receive$1.class -> lastModified(1493844764000)
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/target/scala-2.12/classes/ReadFromConsumerAndWrite$$anonfun$running$1$$anonfun$applyOrElse$4.class -> lastModified(1493844764000)
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/target/scala-2.12/classes/ReadFromConsumerAndWrite$$anonfun$running$1.class -> lastModified(1493844764000)
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/target/scala-2.12/classes/ReadFromConsumerAndWrite$.class -> lastModified(1493844764000)
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/target/scala-2.12/classes/ReadFromConsumerAndWrite$Start$.class -> lastModified(1493844764000)
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/target/scala-2.12/classes/ReadFromConsumerAndWrite$Stop$.class -> lastModified(1493844764000)
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/target/scala-2.12/classes/ReadFromConsumerAndWrite$delayedInit$body.class -> lastModified(1493844764000)
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/target/scala-2.12/classes/ReadFromConsumerAndWrite.class -> lastModified(1493844764000)
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/target/scala-2.12/classes/ReaderResource$.class -> lastModified(1493844764000)
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/target/scala-2.12/classes/ReaderResource.class -> lastModified(1493844764000)
+source stamps:
+3 items
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ConsumerReader.scala -> hash(09a403028321b2d09d203015d56246dacfd61152)
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> hash(ef6072079221cc1a4b0bc349ec9288b613901ea5)
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> hash(3d64ba3adcc9b069cac6a87386cba1edcec3a921)
+binary stamps:
+7 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1475301657000)
+/Users/Conan/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.4.14.jar -> lastModified(1479741380000)
+/Users/Conan/.ivy2/cache/com.typesafe.akka/akka-stream-kafka_2.12/jars/akka-stream-kafka_2.12-0.13.jar -> lastModified(1479895794000)
+/Users/Conan/.ivy2/cache/com.typesafe.akka/akka-stream_2.12/jars/akka-stream_2.12-2.4.14.jar -> lastModified(1479741455000)
+/Users/Conan/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar -> lastModified(1431099969000)
+/Users/Conan/.ivy2/cache/org.apache.kafka/kafka-clients/jars/kafka-clients-0.10.0.1.jar -> lastModified(1470314482000)
+/Users/Conan/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar -> lastModified(1492071552000)
+class names:
+7 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/Conan/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.4.14.jar -> akka.actor.ActorSystem$
+/Users/Conan/.ivy2/cache/com.typesafe.akka/akka-stream-kafka_2.12/jars/akka-stream-kafka_2.12-0.13.jar -> akka.kafka.scaladsl.Consumer$
+/Users/Conan/.ivy2/cache/com.typesafe.akka/akka-stream_2.12/jars/akka-stream_2.12-2.4.14.jar -> akka.stream.scaladsl.Source
+/Users/Conan/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar -> com.typesafe.config.ConfigFactory
+/Users/Conan/.ivy2/cache/org.apache.kafka/kafka-clients/jars/kafka-clients-0.10.0.1.jar -> org.apache.kafka.common.serialization.ByteArrayDeserializer
+/Users/Conan/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar -> scala.Byte
+internal apis:
+3 items
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ConsumerReader.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwjL5BgwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwn3/bt3QABm5vdGlmeXNxAH4ADL/ZFD50AA5Db25zdW1lclJlYWRlcnNxAH4ADKDr4kl0AAR3YWl0c3EAfgAMJ4KdQ3QADSRhc0luc3RhbmNlT2ZzcQB+AAwTyMxGdAAGZXF1YWxzc3EAfgAMJkFprHQADGFzSW5zdGFuY2VPZnNxAH4ADE3daEZ0AAVUb3BpY3NxAH4ADHSxMG50AAxzeW5jaHJvbml6ZWRzcQB+AAyycgOpdAANJGlzSW5zdGFuY2VPZnNxAH4ADGfOzOh0AAlub3RpZnlBbGxzcQB+AAz9s808dAAMaXNJbnN0YW5jZU9mc3EAfgAM5qZFyXQAAj09c3EAfgAMZSFVFXQABWNsb25lc3EAfgAMqHLEk3QACHRvU3RyaW5nc3EAfgAMhdOIn3QAAiE9c3EAfgAMpHbv83QACGdldENsYXNzc3EAfgAMusU/LnQAAm5lc3EAfgAM/GP273QAAmVxc3EAfgAMcs9B1HQAAiMjc3EAfgAMPY6RO3QACGZpbmFsaXplc3EAfgAMNh5McnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgARdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBYc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXXNxAH4AWHVxAH4APAAAAABzcQB+AFh1cQB+ADwAAAAAc3EAfgBYdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBcdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBcc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB1dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB2c3EAfgBpdAADQW55c3EAfgBtc3EAfgBwdXEAfgBzAAAAAnNxAH4AdXQABXNjYWxhcQB+AHx1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW9AWCk51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABFL1VzZXJzL0NvbmFuL0Rlc2t0b3AvRGV4aWFuZ1h1LVNjYWxhL1BoYXNlMi90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUCaQDAoMhstCdIDAV1WJG2s/WEVI=
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw3T5UOgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAVzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHBYYCn3dAAGc3lzdGVtc3EAfgALe9AZ33QAB2NvbnRleHRzcQB+AAs5RZe6dAAEc2VsZnNxAH4AC7jpQ7d0AAxtYXRlcmlhbGl6ZXJzcQB+AAvmx1lndAAIZXhlY3V0b3J1cQB+AAkAAAA1c3EAfgALGcqGqXQABm5vdGlmeXNxAH4ACx36cx10AAdSZWNlaXZlc3EAfgALgeuJqHQABHdhaXRzcQB+AAs1jVzsdAANJGFzSW5zdGFuY2VPZnNxAH4AC+0nxXJ0AAZsb2dnZXJzcQB+AAv8tXgzdAAMcHJvZHVjdEFyaXR5c3EAfgAL+L1liHQABmVxdWFsc3NxAH4AC5w1HG90AAdydW5uaW5nc3EAfgAL33IWznQADGFzSW5zdGFuY2VPZnNxAH4AC/qcTrd0AA5leGVjdXRpb25TdGFydHNxAH4ACxP2l1l0AAxzeW5jaHJvbml6ZWRzcQB+AAt8+SaRdAANJGlzSW5zdGFuY2VPZnNxAH4ACxAxoiV0AAdyZWNlaXZlc3EAfgALNpGIlHQACnByZVJlc3RhcnRzcQB+AAsUz1hVdAANYXJvdW5kUmVjZWl2ZXNxAH4AC5hr1fl0AAhjYW5FcXVhbHNxAH4AC96JIMd0AAZjb25maWdzcQB+AAsZDYdQdAALcG9zdFJlc3RhcnRzcQB+AAvJ7hG9dAAEbWFpbnNxAH4AC6ZVctV0AAVTdGFydHNxAH4AC2JkJ7t0AAhwb3N0U3RvcHNxAH4AC1zWqyh0ABhSZWFkRnJvbUNvbnN1bWVyQW5kV3JpdGVzcQB+AAv1qyaMdAANcHJvZHVjdFByZWZpeHNxAH4AC/avQv90AAlub3RpZnlBbGxzcQB+AAs6tHJgdAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAvZE2TFdAAMaXNJbnN0YW5jZU9mc3EAfgALDwKzZnQAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAtXFwFwdAAOYXJvdW5kUG9zdFN0b3BzcQB+AAsNi/NFdAAGPGluaXQ+c3EAfgALtkHym3QACHByZVN0YXJ0c3EAfgAL/9gPAHQACXVuaGFuZGxlZHNxAH4AC1HACVZ0AAI9PXNxAH4AC5h/KPR0AAVjbG9uZXNxAH4AC/pBrRx0AAYkaW5pdCRzcQB+AAty97AgdAAHTWVzc2FnZXNxAH4AC+BYpi50AAZzZW5kZXJzcQB+AAucZ9gsdAAIdG9TdHJpbmdzcQB+AAu2J8aUdAAEYXJnc3NxAH4AC6Xg8jZ0AAIhPXNxAH4AC0JxO2B0AAhnZXRDbGFzc3NxAH4AC+LIPl50AARTdG9wc3EAfgALZwF5QXQAAm5lc3EAfgALBruEunQAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4AC39hAvZ0AAJlcXNxAH4AC+TuiBl0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAvFD54FdAADbG9nc3EAfgALXXVnBnQADGluaXRpYWxBY3RvcnNxAH4ACziQZ2l0AAtkZWxheWVkSW5pdHNxAH4AC1Zx0Sl0AAIjI3NxAH4AC9eaRxt0AAhmaW5hbGl6ZXNxAH4AC+wprt10AA5wcm9kdWN0RWxlbWVudHNxAH4AC6hhjI50AAhoYXNoQ29kZXNxAH4AC1RXa0J0AA5hcm91bmRQcmVTdGFydHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AIt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AQ3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3QAEHNjYWxhLmRlcHJlY2F0ZWRzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4ApHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCLTAAJaW5oZXJpdGVkcQB+AItMAAdwYXJlbnRzcQB+AIt4cQB+AKlzcQB+AKR1cQB+AIYAAAAAc3EAfgCkdXEAfgCGAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgCMcQB+AJV1cQB+AJYAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgCzeHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADEwABXZhbHVlcQB+AAx4cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AKh0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AqHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AzXNxAH4AmABxAH4APXVxAH4AmgAAAABzcQB+AMB0AARVbml0cQB+AMZ1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADEwAA3RwZXEAfgCzeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgCddAAFUGxhaW5xAH4AY3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AwVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AqHNxAH4AwHQABUFycmF5cQB+AMZ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AwHQABlN0cmluZ3NxAH4AxHNxAH4Ax3VxAH4AygAAAANzcQB+AMx0AARqYXZhc3EAfgDMdAAEbGFuZ3EAfgDRc3EAfgCkdXEAfgDoAAAABHNxAH4AwHQAA0FwcHEAfgDGc3EAfgDAdAALRGVsYXllZEluaXRxAH4AxnNxAH4AwHQABk9iamVjdHEAfgDsc3EAfgDAdAADQW55cQB+AMZzcQB+AIhxAH4AlXVxAH4AlgAAAABzcQB+AJgAdAAYUmVhZEZyb21Db25zdW1lckFuZFdyaXRldXEAfgCaAAAAAH5xAH4AnHQACENsYXNzRGVmdXEAfgCgAAAAAHNxAH4ApHEAfgCqc3EAfgCkc3EAfgCsc3EAfgCkdXEAfgCGAAAAAHNxAH4ApHVxAH4AhgAAAABzcQB+AKR1cQB+AOgAAAAEc3EAfgDAdAAMQWN0b3JMb2dnaW5nc3EAfgDEc3EAfgDHdXEAfgDKAAAAA3NxAH4AzHQABGFra2FzcQB+AMx0AAVhY3RvcnEAfgDRc3EAfgDAdAAFQWN0b3JxAH4BEHNxAH4AwHEAfgD6c3EAfgDEc3EAfgDHdXEAfgDKAAAAA3NxAH4AzHEAfgDwc3EAfgDMcQB+APJxAH4A0XNxAH4AwHEAfgD8c3EAfgDEc3EAfgDHdXEAfgDKAAAAAnNxAH4AzHEAfgDPcQB+ANF1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW9AWCk51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABFL1VzZXJzL0NvbmFuL0Rlc2t0b3AvRGV4aWFuZ1h1LVNjYWxhL1BoYXNlMi90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU72ByB5IhzBpLC8NJ7JKIthOQHqU=
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwwPSYhwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwYPmr7nQABm5vdGlmeXNxAH4ADMYjDC90AAR3YWl0c3EAfgAMxWI6QnQADSRhc0luc3RhbmNlT2ZzcQB+AAx6OY2HdAAGZXF1YWxzc3EAfgAMV62o23QADGFzSW5zdGFuY2VPZnNxAH4ADA+No2Z0AA5SZWFkZXJSZXNvdXJjZXNxAH4ADEqyDRp0AAxzeW5jaHJvbml6ZWRzcQB+AAzfICf7dAANJGlzSW5zdGFuY2VPZnNxAH4ADPRfeMp0AAZjcmVhdGVzcQB+AAwA650XdAAJbm90aWZ5QWxsc3EAfgAMWKsEnnQADGlzSW5zdGFuY2VPZnNxAH4ADFdHDpd0AAI9PXNxAH4ADDrptf10AAVjbG9uZXNxAH4ADDpntKt0AAh0b1N0cmluZ3NxAH4ADFTPZdN0AAIhPXNxAH4ADJMaeiJ0AAhnZXRDbGFzc3NxAH4ADPgLnhJ0AAJuZXNxAH4ADJrRcv50AAJlcXNxAH4ADOnS8PF0AAIjI3NxAH4ADLZ/gv10AAhmaW5hbGl6ZXNxAH4ADCm34zx0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AGXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AF1zcQB+AFh1cQB+ADwAAAAAc3EAfgBYdXEAfgA8AAAAAHNxAH4AWHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AXHQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AdXQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AdnNxAH4AaXQAA0FueXNxAH4AbXNxAH4AcHVxAH4AcwAAAAJzcQB+AHV0AAVzY2FsYXEAfgB8dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVvQFgpOdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQARS9Vc2Vycy9Db25hbi9EZXNrdG9wL0RleGlhbmdYdS1TY2FsYS9QaGFzZTIvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFD1kujrcybBpysaoc4bLoe3Ow6kh
+external apis:
+0 items
+source infos:
+3 items
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ConsumerReader.scala -> 
+AAAAAAAAAAA=
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReadFromConsumerAndWrite.scala -> 
+AAAAAAAAAAA=
+/Users/Conan/Desktop/DexiangXu-Scala/Phase2/src/main/scala/ReaderResource.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW9AWCk51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9Db25hbi9EZXNrdG9wL0RleGlhbmdYdS1TY2FsYS9QaGFzZTIvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
