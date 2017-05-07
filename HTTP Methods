@@ -1,6 +1,6 @@
 HTTP Methods
 
-Postman:
+Postman: verify http api
 
 CRUD:
 created/read/update/delete
@@ -33,10 +33,12 @@ update xyz
 http://localhost:9000/ip/<xyz>  (post)
 update/replace: xyz
 
+
+Rest over HTTP
+
 Put:
 update only select fields
 
-Rest over HTTP
 
 Delete:
 delete
