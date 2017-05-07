@@ -35,6 +35,6 @@ Implements a REST service based on Elestic search which will provide user method
 * Akka Scala Seed : https://github.com/typesafehub/activator-akka-scala-seed
 * Akka HTTP Microservice : https://github.com/theiterators/akka-http-microservice
 * Reactive Kafka : https://github.com/softwaremill/activator-reactive-kafka-scala
-* REST service https://github.com/colaberry/scala-course-projects-lokesh973
-* Csv parser https://github.com/tototoshi/scala-csv
+* REST service : https://github.com/colaberry/scala-course-projects-lokesh973
+* Csv parser : https://github.com/tototoshi/scala-csv
 
